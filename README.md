@@ -21,6 +21,7 @@ json对比工具之jsondiffpatch
 		<pre class="test test1"></pre>
 		<pre class="test test2"></pre>
 	</div>
+	<h3 class="r_title">对比后结果：</h3>
 	<hr />
 	<div id="visual"></div>
 	<script type="text/javascript" src="main.js"></script>

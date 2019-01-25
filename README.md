@@ -2,7 +2,7 @@
 json对比工具之jsondiffpatch
 
 ### 放一张对比显示的图片
-<img src="http://img.mousecloud.cn/public/upload/1548396878148.jpg" width="866" hegiht="836" align="center" />
+<img src="http://img.mousecloud.cn/public/upload/1548396878148.jpg" width="400" hegiht="836" align="center" />
 
 #### 定义html文件
 引入diff.js(jsondiffpatch),定义显示样式的文件pretty.css和html.css
